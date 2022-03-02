@@ -36,7 +36,8 @@ header img {
 .mission {
   height: 700px;
   width: 1200px;
-  background-image: url('resources/pictures/mission-background.jpg');
+  background-image: url('https://content.codecademy.com/courses/freelance-1/unit-4/img-mission-background.jpg');
+  /*background-image: url('resources/pictures/mission-background.jpg'); */
   background-position: center;
   background-repeat: no-repeat;
   align-content:center;
@@ -68,7 +69,8 @@ header img {
 .locations {
   height: 500px;
   width: 1200px;
-  background-image: url('resources/pictures/locations-background.jpg');
+  background-image: url('https://content.codecademy.com/courses/freelance-1/unit-4/img-locations-background.jpg');
+  /*background-image: url('resources/pictures/locations-background.jpg'); */
   justify-content: space-between;
   background-repeat: no-repeat;
   background-position: center;
